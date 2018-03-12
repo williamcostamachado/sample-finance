@@ -1,0 +1,19 @@
+{
+  "name": "sample-finance",
+  "version": "1.0.0",
+  "description": "controle financeiro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamcostamachado/sample-finance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamcostamachado/sample-finance/issues"
+  },
+  "homepage": "https://github.com/williamcostamachado/sample-finance#readme"
+}
